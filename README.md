@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+
+I build things I like. 🎯
 <!--
 **AaruBama/AaruBama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Few Projects i've built so far:
+=> Memestr - A decentralized web for memes and interests.
+=> Resume Enhancer - Uses AI to score your resume against a Job description and suggests changes.
+=> Sanjay - A subtitle generator for vidoos using Whisper OpenAI model.
+=> Video generator - Takes in an image and text and creates AI Videos. When combined with Sanjay, You get AI generated videos with subtitles.
+
+TODO: Project links to be updated.
