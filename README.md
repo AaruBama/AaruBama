@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# I build things I like. 🎯
+# I build tech automations, train LLMs and use AI to improve lives. 🎯
 
 ## Projects I've built so far:
 
